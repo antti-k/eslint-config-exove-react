@@ -16,8 +16,8 @@ module.exports = {
 
 	rules: {
 		'jsx-quotes': [ 2, 'prefer-single' ],
-		'react/jsx-indent': [ 2, 'tab' ],
-		'react/jsx-indent-props': [ 2, 'tab' ],
+		'react/jsx-indent': [ 2, 2 ],
+		'react/jsx-indent-props': [ 2, 2 ],
 		'react/jsx-closing-bracket-location': [ 2, 'line-aligned' ],
 	},
 };
